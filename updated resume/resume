@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<title>Giovanni Aceto</title>
+
+
+</head>
+
+
+<body>
+<h1><img src="Giovanni.png" alt="Giovanni"><br>Giovanni Aceto</h1>
+
+<h2>Giovanni Aceto</h2>
+<p>Hello and welcome. Giovanni Aceto is a student learning at Seminole State College. He is getting a degree in Digital Media and has learned <strong>Photoshop, Illustrator, and Premiere.</strong>   He has designed logos and a website based on information about comic characters. Giovanni has also used Adobe Premiere to create commercials for school projects.</p>
+
+<h2>Skills</h2>
+<ol>
+<li>Photoshop<br></li>
+<li>Digital Media<br></li>
+<li>Illustrator<br></li>
+<li>Web Development<br></li>
+<li>HTML<br></li>
+<li>CSS<br></li>
+<li>Javascript<br></li>
+<li>Web Design<br></li>
+<li>Git<br></li>
+<li>Information Design<br></li>
+</ol>
+
+<h2>Software/Hardware</h2>
+<ol>
+<li>Photoshop<br></li>
+<li>Illustrator<br></li>
+<li>Premier Pro<br></li>
+<li>TextEdit<br></li>
+<li>Lightroom<br></li>
+</ol>
+
+<h2>Social Media</h2>
+<a href="https://www.youtube.com/channel/UCAAbGPgKwe_xseTKKFgOIlQ?view_as=subscriber">Youtube</a>
+
+<h2>Work Samples</h2>
+<h3><a href="popsicle.html"><img src="Giovanni_Aceto_Logo.pdf" alt="Logo"><br>Logo</h3>
+<h4><a href="eclipse.html"><img src="Eclipse.png" alt="Eclipse"><br>Eclipse</h4>
+<h5><a href="photoshop.html"><img src="photoshop1.png" alt="Photoshop"><br>Photoshop 1</h5>
+<h5><a href="photoshop2.html"><img src="photoshop2.png" alt="Harmony"><br>Photoshop 2</h5>
+<h6><a href="video.html"><img src="Video.png" alt="Video"><br>Video Screenshot</h6> 
+
+
+</body>
+</html>
